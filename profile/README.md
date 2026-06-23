@@ -5,8 +5,8 @@
 
 <h3>Engineering Tomorrow, Today</h3>
 
-[![Website](https://img.shields.io/badge/Website-neoreos.io-3b82f6?style=for-the-badge&logo=globe&logoColor=white)](https://neoreos.io)
-[![Email](https://img.shields.io/badge/Email-hello@neoreos.io-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@neoreos.io)
+[![Website](https://img.shields.io/badge/Website-neoreos.web.id-3b82f6?style=for-the-badge&logo=globe&logoColor=white)](https://neoreos.web.id)
+[![Email](https://img.shields.io/badge/Email-hello@neoreos.web.id-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@neoreos.web.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NeoReos-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/neoreos)
 
 </div>
@@ -194,7 +194,7 @@ We're selective about the projects we take on — we partner with teams who are 
 
 </div>
 
-**📬 Get in touch:** [hello@neoreos.io](mailto:hello@neoreos.io)
+**📬 Get in touch:** [hello@neoreos.web.id](mailto:hello@neoreos.web.id)
 
 ---
 
