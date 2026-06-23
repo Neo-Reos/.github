@@ -28,7 +28,8 @@ From crafting pixel-perfect mobile experiences to architecting resilient cloud i
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48"/><br/>
       <strong>Mobile Development</strong><br/>
       <sub>Cross-platform apps with Flutter, delivering native-quality experiences on iOS & Android.</sub>
     </td>
